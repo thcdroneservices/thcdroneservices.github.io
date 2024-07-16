@@ -1,0 +1,15 @@
+# Site settings
+title: TxHC Drone Services
+email: mailto:info@thcdroneservices.com
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "https://thcdroneservices.github.io/" # the base hostname & protocol for your site
+
+twitter_username:
+github_username:
+
+# Build settings
+markdown: kramdown
+
+
+
