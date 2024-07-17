@@ -6,7 +6,7 @@ baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://thcdroneservices.github.io/" # the base hostname & protocol for your site
 
 instagram_username:
-github_username:
+google_username:
 
 # Build settings
 markdown: kramdown
