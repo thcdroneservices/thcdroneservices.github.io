@@ -1,8 +1,8 @@
-# Texas Hill Country Drone Services - thcdroneservices.github.io
+# Texas Hill Country Drone Services
 
 ![logo](/img/footer.png)
 
-This project is for Texas Hill Country Drone Services.
+This project is for Texas Hill Country Drone Services - thcdroneservices.github.io
 
 ## Description
 
