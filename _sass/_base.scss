@@ -297,7 +297,9 @@ header {
 }
 
 .contact-form {
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    label {
+        font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
+    }
 }
 
 // Bootstrap Overrides
