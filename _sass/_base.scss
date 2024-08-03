@@ -117,15 +117,15 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba(white, .7);
+            color: rgba($theme-med, .7);
             &:hover,
             &:focus {
-                color: $theme-med;
+                color: $theme-light;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba(white, .7);
+            color: rgba($theme-med, .7);
             &:hover {
                 color: white;
             }
@@ -151,7 +151,7 @@ aside {
         }
     }
 }
-}
+
 
 // Homepage Header
 
