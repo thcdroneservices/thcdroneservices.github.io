@@ -120,7 +120,7 @@ aside {
             color: rgba(white, .7);
             &:hover,
             &:focus {
-                color: white;
+                color: $theme-med;
             }
         }
         .nav > li > a,
