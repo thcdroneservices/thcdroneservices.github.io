@@ -127,7 +127,7 @@ aside {
         .nav > li > a:focus {
             color: rgba($theme-med, .7);
             &:hover {
-                color: white;
+                color: $theme-med;
             }
         }
         &.affix {
