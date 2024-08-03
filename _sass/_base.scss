@@ -152,6 +152,12 @@ aside {
     }
 }
 
+.navbar-brand .page-scroll {
+    &:hover {
+        color: $theme-primary;
+    }
+}
+
 // Homepage Header
 
 header {
