@@ -169,7 +169,7 @@ header {
         text-align: center;
         padding: 100px 15px 100px;
         width: 100%;
-        img {
+        .header-content img {
             width: 75%;
             height: auto;
         }
@@ -204,7 +204,7 @@ header {
             transform: translateY(-50%);
             padding: 0 50px;
             img {
-                max-width: 25%;
+                max-width: 307px;
                 height: auto;
             }
             .header-content-inner {
