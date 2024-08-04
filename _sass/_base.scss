@@ -362,6 +362,11 @@ header {
     button[type=submit]:hover {
         background-color: #41B8EA;
     }
+    @media (min-width: 768px) {
+        .contact-form-form {
+            width: 75%;
+        }
+    }
 }
 
 // Bootstrap Overrides
