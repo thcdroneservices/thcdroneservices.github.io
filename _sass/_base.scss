@@ -169,6 +169,10 @@ header {
         text-align: center;
         padding: 100px 15px 100px;
         width: 100%;
+        .img {
+            width: 100%;
+            height: auto;
+        }
         .header-content-inner {
             h1 {
                 font-weight: 700;
@@ -189,10 +193,6 @@ header {
                 font-weight: bolder;
             }
         }
-    }
-    .header-content img {
-        width: 100%;
-        height: auto;
     }
     @media (min-width: 768px) {
         min-height: 100%;
