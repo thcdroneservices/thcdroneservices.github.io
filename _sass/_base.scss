@@ -170,7 +170,8 @@ header {
         padding: 100px 15px 100px;
         width: 100%;
         img {
-            min-width: 25%;
+            max-width: 558px;
+            height: auto;
         }
         .header-content-inner {
             h1 {
