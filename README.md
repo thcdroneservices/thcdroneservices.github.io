@@ -17,7 +17,6 @@ All edits to theme and code were done by TxHC Drone Services.
 
 Inspiration, sources, etc.
 * This project was cloned from jekyll theme: [Creative Theme by Volny](https://github.com/volny/creative-theme-jekyll)
-* The footer was inspired by responsive footer on CodePen: [Responsive Footer by Kirankumar](https://codepen.io/baahubali92/pen/KbRBxJ?editors=1100)
-* This README.md was inspired by README template: [DomPizzie/README.md](https://gist.github.com/DomPizzie/7a5ff55ffa9081f2de27c315f5018afc)
+* The footer section was inspired by responsive footer on CodePen: [Responsive Footer by Baahubali](https://codepen.io/baahubali92/pen/KbRBxJ)
 
 
