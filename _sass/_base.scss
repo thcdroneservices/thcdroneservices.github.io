@@ -266,10 +266,10 @@ header {
     max-width: 650px;
     margin: 0 auto;
     .portfolio-box-caption {
-        color: white;
+        color: black;
         opacity: 0;
         display: block;
-        background: rgba( $theme-primary, .9 );
+        background: rgba( $theme-alt, .9 );
         position: absolute;
         bottom: 0;
         text-align: center;
