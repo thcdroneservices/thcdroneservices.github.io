@@ -372,7 +372,8 @@ header {
         cursor: pointer;
     }
     button[type=submit]:hover {
-        background-color: $theme-med;
+        background-color: $theme-alt;
+        color: $theme-primary;
     }
 }
 
