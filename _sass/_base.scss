@@ -481,6 +481,9 @@ header {
 
 .sitemapList {
     list-style: none;
+    .ul a {
+        font-size: 14px;
+    }
 }
 
 .footer-widget ul li {
