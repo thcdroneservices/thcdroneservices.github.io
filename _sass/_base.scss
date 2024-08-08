@@ -421,22 +421,22 @@ header {
 }
 
 .footer-section {
-  background: $theme-dark;
-  position: relative;
+    background: $theme-dark;
+    position: relative;
 }
 
 .footer-content {
-  position: relative;
-  z-index: 2;
+    position: relative;
+    z-index: 2;
 }
 
 .footer-pattern img {
-  position: absolute;
-  top: 0;
-  left: 0;
-  height: 330px;
-  background-size: cover;
-  background-position: 100% 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 330px;
+    background-size: cover;
+    background-position: 100% 100%;
 }
 
 .footer-logo {
@@ -449,30 +449,30 @@ header {
 }
 
 .footer-text p {
-  margin-bottom: 14px;
-  font-size: 14px;
-      color: #7e7e7e;
-  line-height: 28px;
+    margin-bottom: 14px;
+    font-size: 14px;
+        color: #7e7e7e;
+    line-height: 28px;
 }
 
 .footer-social-icon span {
-  color: $theme-light;
-  display: block;
-  font-size: 20px;
-  font-weight: 700;
-  margin-bottom: 20px;
+    color: $theme-light;
+    display: block;
+    font-size: 20px;
+    font-weight: 700;
+    margin-bottom: 20px;
 }
 
 .footer-social-icon a {
-  margin-right: 25px;
+    margin-right: 25px;
 }
 
 .footer-social-icon i {
-  height: 40px;
-  width: 40px;
-  text-align: center;
-  line-height: 38px;
-  border-radius: 50%;
+    height: 40px;
+    width: 40px;
+    text-align: center;
+    line-height: 38px;
+    border-radius: 50%;
 }
 
 #footer .fa {
@@ -485,56 +485,59 @@ header {
 }
 
 .icon-bg{
-  background: $theme-primary;
+    background: $theme-primary;
 }
 
 .footer-widget-heading h3 {
-  color: #fff;
-  font-size: 20px;
-  font-weight: 600;
-  margin-bottom: 40px;
-  position: relative;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 600;
+    margin-bottom: 40px;
+    position: relative;
 }
 
 .footer-widget-heading h3::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  bottom: -15px;
-  height: 2px;
-  width: 50px;
-  background: $theme-alt;
+    content: "";
+    position: absolute;
+    left: 0;
+    bottom: -15px;
+    height: 2px;
+    width: 50px;
+    background: $theme-alt;
+}
+
+.sitemapList {
+    list-style: none;
 }
 
 .footer-widget ul li {
-  float: left;
-  width: 50%;
-  margin-bottom: 12px;
-  list-style: none;
+    float: left;
+    width: 50%;
+    margin-bottom: 12px;
 }
 
 .footer-widget ul li a:hover{
-  color: $theme-alt;
+    color: $theme-alt;
 }
 
 .footer-widget ul li a {
-  color: #878787;
-  text-transform: capitalize;
+    color: #878787;
+    text-transform: capitalize;
 }
 
 .copyright-area{
-  background: #202020;
-  text-align: center;
+    background: #202020;
+    text-align: center;
 }
 
 .copyright-text p {
-  margin: 0;
-  font-size: 14px;
-  color: #878787;
+    margin: 0;
+    font-size: 14px;
+    color: #878787;
 }
 
 .copyright-text p a{
-  color: $theme-alt;
+    color: $theme-alt;
 }
 
 // Extras
