@@ -56,6 +56,11 @@ p {
     color: black;
 }
 
+.bg-alt {
+    background-color: $theme-alt;
+    color: black;
+}
+
 .text-faded {
     color: rgba(white, .7);
 }
