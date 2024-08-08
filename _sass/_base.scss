@@ -352,7 +352,7 @@ header {
         resize: vertical;
     }
     button[type=submit] {
-        background-color: #AC1E23;
+        background-color: $theme-primary;
         color: white;
         padding: 12px 20px;
         border: none;
@@ -360,7 +360,7 @@ header {
         cursor: pointer;
     }
     button[type=submit]:hover {
-        background-color: #41B8EA;
+        background-color: $theme-med;
     }
 }
 
@@ -400,7 +400,7 @@ header {
 }
 
 .btn-aside:hover {
-    background-color: #AC1E23;
+    background-color: $theme-primary;
     color: #FFFFFF;
 }
 
