@@ -505,16 +505,8 @@ header {
   border-radius: 50%;
 }
 
-.facebook-bg{
-  background: #3B5998;
-}
-
-.twitter-bg{
-  background: #55ACEE;
-}
-
-.google-bg{
-  background: #DD4B39;
+.icon-bg{
+  background: $theme-primary;
 }
 
 .footer-widget-heading h3 {
