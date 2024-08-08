@@ -316,6 +316,9 @@ header {
     h4 {
         line-height: 1.8;
     }
+    .bmc-button-style:hover {
+        color: $theme-alt;
+    }
 }
 
 .call-to-action2 {
@@ -327,8 +330,6 @@ header {
 #svcloc .fa {
     color: $theme-alt;
 }
-
-
 
 // Contact Form
 
