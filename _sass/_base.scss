@@ -452,9 +452,10 @@ header {
 
 .footer-logo img {
     max-width: 250px;
-    &:hover {
-        background-image: url('"..img/header3_10.png');
-    }
+}
+
+.footer-logo img:hover {
+    background-image: url('"..img/header3_10.png');
 }
 
 .footer-social-icon a {
