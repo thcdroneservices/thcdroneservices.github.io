@@ -503,7 +503,7 @@ header {
   bottom: -15px;
   height: 2px;
   width: 50px;
-  background: #ff5e14;
+  background: $theme-alt;
 }
 
 .footer-widget ul li {
@@ -513,7 +513,7 @@ header {
 }
 
 .footer-widget ul li a:hover{
-  color: #ff5e14;
+  color: $theme-alt;
 }
 
 .footer-widget ul li a {
