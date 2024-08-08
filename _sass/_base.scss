@@ -409,6 +409,7 @@ header {
     color: $theme-light;
     font-size: 4em;
 }
+
 #contact .fa:hover {
     color: $theme-primary;
 }
@@ -483,7 +484,7 @@ header {
 }
 
 .footer-social-icon span {
-  color: #fff;
+  color: $theme-light;
   display: block;
   font-size: 20px;
   font-weight: 700;
