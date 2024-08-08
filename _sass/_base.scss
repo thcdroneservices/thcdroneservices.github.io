@@ -495,7 +495,9 @@ header {
 
 .sitemapList {
     list-style: none;
-    font-size: 18px;
+    a {
+        font-size: 18px;
+    }
 }
 
 .footer-widget ul li {
