@@ -448,13 +448,6 @@ header {
     max-width: 250px;
 }
 
-.footer-text p {
-    margin-bottom: 14px;
-    font-size: 14px;
-        color: #7e7e7e;
-    line-height: 28px;
-}
-
 .footer-social-icon span {
     color: $theme-light;
     display: block;
@@ -523,6 +516,13 @@ header {
 .footer-widget ul li a {
     color: #878787;
     text-transform: capitalize;
+}
+
+.footer-text p {
+    margin-bottom: 14px;
+    font-size: 14px;
+        color: #7e7e7e;
+    line-height: 28px;
 }
 
 .copyright-area{
