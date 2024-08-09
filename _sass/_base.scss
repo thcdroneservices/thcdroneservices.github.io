@@ -230,10 +230,13 @@ header {
 // About
 .aboutUs {
     color: black;
-    .h3 {
+    h3 {
         font-size: 18px;
     }
-    .p {
+    h4 {
+        font-size: 16px;
+    }
+    p {
         font-size: 16px;
     }
 }
