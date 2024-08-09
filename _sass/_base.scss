@@ -129,7 +129,7 @@ aside {
             color: rgba($theme-light, .8);
             &:hover,
             &:focus {
-                color: $theme-primary;
+                color: $theme-alt;
             }
         }
         .nav > li > a,
@@ -479,7 +479,7 @@ header {
 }
 
 .footer-logo:hover {
-    background-image: url('..img/header3_10.png');
+    background-image: url('..img/header3_11.jpg');
 }
 
 .footer-social-icon a {
@@ -522,7 +522,7 @@ header {
     list-style: none;
 }
 
-.sitemapList li a {
+.siteList li a {
     font-size: 18px;
 }
 
@@ -556,7 +556,7 @@ header {
 
 .copyright-text p {
     margin: 0;
-    font-size: 16px;
+    font-size: 14px;
     color: #878787;
     text-align: center;
 }
