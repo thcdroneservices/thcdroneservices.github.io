@@ -480,17 +480,11 @@ header {
     max-width: 250px;
 }
 
-.foot-img img:last-child {
-    display:none
-}
-
-.foot-img:hover img:first-child {
-    display:none
-}
-
-.foot-img:hover img:last-child {
-    display:inline-block
-}
+.foot-img:hover {text-decoration: none} /* Optional (avoid undesired underscore if a is used as wrapper) */
+.foot-img-hide {display:none}
+/* Do the shift: */
+.foot-img:hover img:first-child{display:none}
+.foot-img:hover img:last-child{display:inline-block}
 
 
 .footer-social-icon a {
