@@ -16,16 +16,12 @@ hr {
 
 hr.alt {
     border-color: $theme-primary;
-    border-width: 3px;
-    max-width: 50px;
+    border-width: 2px;
+    max-width: 100px;
 }
 
 hr.light {
     border-color: white;
-}
-
-hr.alt {
-    border-color: $theme-alt;
 }
 
 a {
