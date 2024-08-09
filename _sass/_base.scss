@@ -18,6 +18,10 @@ hr.light {
     border-color: white;
 }
 
+hr.alt {
+    border-color: $theme-alt;
+}
+
 a {
     @include transition-all;
     color: $theme-primary;
