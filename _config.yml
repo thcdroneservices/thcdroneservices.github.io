@@ -7,6 +7,7 @@ url: "https://thcdroneservices.github.io/" # the base hostname & protocol for yo
 
 instagram_username: thcdroneservices
 youtube_username: THCDroneServices
+linkedin_username:
 
 # Build settings
 markdown: kramdown
