@@ -480,13 +480,18 @@ header {
     max-width: 250px;
 }
 
-.footer-logo .img-fluid {
-    background-image: url('..img/header3_6.png');
+.foot-img img:last-child {
+    display:none
 }
 
-.footer-logo .img-fluid:hover {
-    background-image: url('..img/header3_10.png');
+.foot-img:hover img:first-child {
+    display:none
 }
+
+.foot-img:hover img:last-child {
+    display:inline-block
+}
+
 
 .footer-social-icon a {
     margin-right: 50px;
