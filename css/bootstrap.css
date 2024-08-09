@@ -1326,6 +1326,9 @@ mark,
 .text-muted {
   color: #777;
 }
+.text-muted-drk {
+  color: #707070;
+}
 .text-primary {
   color: #337ab7;
 }
