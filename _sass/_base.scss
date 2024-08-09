@@ -84,7 +84,7 @@ aside {
 // Navigation
 
 .navbar-default {
-    background-color: white;
+    background-color: $theme-alt;
     border-color: rgba($theme-dark, .5);
     @include sans-serif-font;
     @include transition-all;
