@@ -480,7 +480,11 @@ header {
     max-width: 250px;
 }
 
-.footer-logo:hover {
+.footer-logo .img-fluid {
+    background-image: url('..img/header3_6.png');
+}
+
+.footer-logo .img-fluid:hover {
     background-image: url('..img/header3_10.png');
 }
 
