@@ -129,14 +129,14 @@ aside {
             color: rgba($theme-light, .8);
             &:hover,
             &:focus {
-                color: $theme-med;
+                color: $theme-alt;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
             color: rgba($theme-light, .8);
             &:hover {
-                color: $theme-med;
+                color: $theme-alt;
             }
         }
         &.affix {
