@@ -128,17 +128,17 @@ aside {
         background-color: transparent;
         border-color: rgba(white, .3);
         .navbar-header .navbar-brand {
-            color: rgba($theme-light, .8);
+            color: rgba($theme-alt, .8);
             &:hover,
             &:focus {
-                color: $theme-alt;
+                color: $theme-light;
             }
         }
         .nav > li > a,
         .nav > li > a:focus {
-            color: rgba($theme-light, .8);
+            color: rgba($theme-alt, .8);
             &:hover {
-                color: $theme-alt;
+                color: $theme-light;
             }
         }
         &.affix {
