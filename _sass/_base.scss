@@ -202,6 +202,10 @@ header {
             .btn {
                 margin: 75px 15px 75px;
             }
+            .inner-img {
+                max-width: 758px;
+                max-height: 568px;
+            }
         }
     }
     @media (max-width: 303px) {
@@ -274,6 +278,7 @@ header {
     }
     .bulletPara {
         font-size: 18px;
+        margin: 15px 0;
     }
 }
 
