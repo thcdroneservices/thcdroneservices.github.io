@@ -26,10 +26,10 @@ hr.light {
 
 a {
     @include transition-all;
-    color: $theme-primary;
+    color: $theme-alt;
     &:hover,
     &:focus {
-        color: darken($theme-alt, 10%);
+        color: darken($theme-light, 10%);
     }
 }
 
