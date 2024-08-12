@@ -116,6 +116,7 @@ aside {
                 > a,
                 > a:focus {
                     color: $theme-alt !important;
+                    text-decoration: underline;
                     background-color: transparent;
                     &:hover {
                         background-color: transparent;
