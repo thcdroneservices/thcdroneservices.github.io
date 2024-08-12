@@ -154,9 +154,9 @@ aside {
             }
             .nav > li > a,
             .nav > li > a:focus {
-                color: $theme-dark;
+                color: $theme-alt;
                 &:hover {
-                    color: $theme-alt;
+                    color: $theme-light;
                 }
             }
         }
