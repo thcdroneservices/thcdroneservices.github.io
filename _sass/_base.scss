@@ -375,9 +375,14 @@ header {
     color: $theme-alt;
 }
 
-#openToIdeas h3 {
-    font-size: 18px;
-    line-height: 1.8;
+#openToIdeas {
+    h3 {
+        font-size: 18px;
+        line-height: 1.8;
+    }
+    .fa {
+        color: $theme-alt;
+    }
 }
 
 // Contact Form
