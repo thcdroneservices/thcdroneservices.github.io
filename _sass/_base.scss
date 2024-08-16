@@ -302,8 +302,8 @@ header {
     padding: 10px;
   }
   
-  /* Clear floats after the columns */
-  .threecolumn-row:after {
+/* Clear floats after the columns */
+.threecolumn-row:after {
     content: "";
     display: table;
     clear: both;
