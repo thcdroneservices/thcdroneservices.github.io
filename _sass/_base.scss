@@ -294,16 +294,17 @@ header {
     }
 }
 
-// Services Listed
+// Services Listed in 3-columns
 /* Create three equal columns that floats next to each other */
 .threecolumn-lo {
     float: left;
     width: 33.33%;
     height: auto;
     padding: 10px;
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
   }
   
-/* Clear floats after the columns */
+/* Clear floats after the 3-columns */
 .threecolumn-row:after {
     content: "";
     display: table;
