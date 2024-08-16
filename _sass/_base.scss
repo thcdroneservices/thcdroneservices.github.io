@@ -294,6 +294,22 @@ header {
     }
 }
 
+// Services Listed
+/* Create three equal columns that floats next to each other */
+.threecolumn-lo {
+    float: left;
+    width: 33.33%;
+    padding: 10px;
+    height: 300px; /* Should be removed. Only for demonstration */
+  }
+  
+  /* Clear floats after the columns */
+  .threecolumn-row:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
 // Portfolio->aka->Gallery
 .portfolio-box {
     position: relative;
