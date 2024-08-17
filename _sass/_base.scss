@@ -302,10 +302,14 @@ header {
     padding: 10px;
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     line-height: 1.8;
+    .fa {
+        text-align: center;
+    }
     /* Responsive layout - makes the three columns stack on top of each other instead of next to each other */
     @media screen and (max-width: 992px) {
         width: 100%;
     }
+
 }
   
 /* Clear floats after the 3-columns */
