@@ -207,6 +207,14 @@ header {
                 max-width: 568px;
                 max-height: 426px;
             }
+            .inner-vid video {
+                position: absolute;
+                top: 0;
+                left: 0;
+                min-width: 100%;
+                min-height: 100%;
+                z-index:-100;
+            }
         }
     }
     @media (max-width: 303px) {
