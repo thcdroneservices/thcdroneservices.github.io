@@ -237,6 +237,7 @@ header {
 }
 
 #background-video {
+    max-height: auto;
     object-fit: cover;
     position: fixed;
     left: 0;
